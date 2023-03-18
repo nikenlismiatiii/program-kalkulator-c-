@@ -1,0 +1,15 @@
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/bin/Debug/net7.0/CalculatorAppConsole
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/bin/Debug/net7.0/CalculatorAppConsole.deps.json
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/bin/Debug/net7.0/CalculatorAppConsole.runtimeconfig.json
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/bin/Debug/net7.0/CalculatorAppConsole.dll
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/bin/Debug/net7.0/CalculatorAppConsole.pdb
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.csproj.AssemblyReference.cache
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.AssemblyInfoInputs.cache
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.AssemblyInfo.cs
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.csproj.CoreCompileInputs.cache
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.dll
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/refint/CalculatorAppConsole.dll
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.pdb
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/CalculatorAppConsole.genruntimeconfig.cache
+/Users/nikenlismiati/Documents/C#/CalculatorAppConsole/CalculatorAppConsole/obj/Debug/net7.0/ref/CalculatorAppConsole.dll
